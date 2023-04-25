@@ -16,8 +16,6 @@ int j=0;
 
 void generar();
 void mostrarIni();
-void moverDer();
-void moverIzq();
 
 int main(){
     int op;
