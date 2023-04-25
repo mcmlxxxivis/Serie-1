@@ -1,4 +1,4 @@
-//Implementa una lista ligada doble circular 
+//Lista de impresion
 
 #include<stdio.h>
 #include<stdlib.h>
