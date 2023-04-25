@@ -13,7 +13,6 @@ struct nodo{
 typedef struct nodo nodo;
 
 nodo *ptrPri=NULL,*ptrUlt=NULL,*ptrPos;
-int j=0;
 
 void generar();
 void mostrarIni();
