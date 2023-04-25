@@ -1,3 +1,5 @@
+//Apartir del ejercicio 1 se vaciara, eliminado el numero mayor comparado entre el numero que esta al inicio y el numero que etsa al final
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
